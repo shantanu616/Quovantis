@@ -1,6 +1,7 @@
 # Quovantis
 
-Installation Step
+Installation Step:
+
 A. Clone the repository:
 
     git clone repo_url
